@@ -1,0 +1,22 @@
+{
+  "name": "angproj",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybersaiyan30/angproj.git"
+  },
+  "author": "vikas singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybersaiyan30/angproj/issues"
+  },
+  "homepage": "https://github.com/cybersaiyan30/angproj#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
